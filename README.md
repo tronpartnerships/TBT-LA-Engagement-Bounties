@@ -1,7 +1,7 @@
-# TBT-NY-Engagement-Bounties
-Engagement Bounties for TRON Builder Tour - NY
+# TBT-LA-Engagement-Bounties
+Engagement Bounties for TRON Builder Tour - LA
 
-This repo contains all of the Engagement Bounties available to claim for the TRON Builder Tour stop in New York!
+This repo contains all of the Engagement Bounties available to claim for the TRON Builder Tour stop in Los Angeles!
 
 **Workshop: 7pm - 8pm EST**
 
